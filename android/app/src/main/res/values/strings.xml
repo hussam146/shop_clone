@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">shopClone</string>
+    <string name="facebook_app_id">912396176402047</string>
+    <string name="fb_login_protocol_scheme">fb912396176402047</string>
+    <string name="facebook_client_token">a9c958af01ad1f437509ed3f2af639ad</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "280501695339",
+    "project_id": "shopclone-40dca",
+    "storage_bucket": "shopclone-40dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280501695339:android:59b3aaa202eba0a423922e",
+        "android_client_info": {
+          "package_name": "com.example.shop_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280501695339-ajq9427e64ci9g4vf847usufmkofrgtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_clone",
+            "certificate_hash": "db91eded11cb8dcbadb19646242983a506e56481"
+          }
+        },
+        {
+          "client_id": "280501695339-bcbltkchc6l3jknar87gshbksg8h88bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg05WLqXhLzBJFAN1w5uIgaUaTnW0bmT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280501695339-bcbltkchc6l3jknar87gshbksg8h88bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
